@@ -71,7 +71,6 @@ body{
     justify-content: center;
     align-items: center;
     gap: 104px;
-
 }
 .slide1-container-content{
     width: 657px;
@@ -550,7 +549,7 @@ body{
     left: 25.5px;
 }
 .slide8-container-box-content-text{
-    width: 280px;
+    width: 278px;
     height: 84px;
     font-weight: 600;
     font-size: 20px;
