@@ -122,6 +122,7 @@ body{
     position: absolute;
     bottom: 16px;
     left: 50%;
+    transform: translateX(-50%)
 }
 .slide1-circle-box{
     width: 10px;
